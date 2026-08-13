@@ -1,4 +1,5 @@
 ## Welcome to my GitHub!
+# Still a work in progress for now. Check back soon for bio and work samples.
 <!--
 **ejheijnis/ejheijnis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
